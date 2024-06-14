@@ -38,7 +38,7 @@
 <a href="https://instagram.com/sakarchaulagain" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sakarchaulagain" height="30" width="40" /></a>
 </div>
 
-<br> <br>
+<br> <br> <br>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -47,6 +47,7 @@
   <br/><br/><br/>
 </div>
 
+<br> <br> <br>
 <h2 align="center">Languages and Tools:</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,linux" /> <br>
