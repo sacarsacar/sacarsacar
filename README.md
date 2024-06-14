@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **Html, Css, Php, MySql etc..**
 
-- 📫 How to reach me **sakarchaulagain1@gmail.com**
+- 📫 How to reach me **	info@sakarc.com.np**
 
 <br>
 
