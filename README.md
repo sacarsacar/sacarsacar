@@ -39,13 +39,7 @@
 </div>
 
 <br> <br> <br>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-    
-![snake gif](https://github.com/sacarsacar/sacarsacar/blob/output/github-contribution-grid-snake.svg)
-  <br/><br/><br/>
-</div>
+
 
 <br> <br> <br>
 <h2 align="center">Languages and Tools:</h2>
