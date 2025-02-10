@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sakar+Chaulagain!;" />
@@ -52,6 +49,9 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,linux" /> <br>
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,wordpress,mongodb,c,java,mysql,photoshop"/> <br>  
      <img src="https://skillicons.dev/icons?i=matlab,gitlab,php" /><br>
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 </div>
 
 <br> <br>
