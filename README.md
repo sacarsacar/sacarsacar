@@ -13,13 +13,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sacarsacar&label=Profile%20views&color=0e75b6&style=flat" alt="sacarsacar" /> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <a  href="https://twitter.com/sacarsakar" target="blank"><img src="https://img.shields.io/twitter/follow/sacarsakar?logo=twitter" alt="sacarsakar" /></a> </p>
  </div>
 
-- 🔭 I’m currently working on **Jhol Momo App**
+- 🔭 I’m currently working on **Multi Cloud**
 
-- 🌱 I’m currently learning **Flutter(Android App Development)**
+- 🌱 I’m currently Working as  **Flutter Developer (Android App Development)**
 
 - 👨‍💻 All of my projects are available at [https://sakarc.com.np/](https://sakarc.com.np/)
 
-- 💬 Ask me about **Html, Css, Php, MySql, Flutter, Figma etc..**
+- 💬 Ask me about ** Flutter, Figma, Dart, MongoDB, Postgres etc..**
 
 - 📫 How to reach me **	info@sakarc.com.np**
 
