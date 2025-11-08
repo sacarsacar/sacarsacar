@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=650&height=80&duration=4000&lines=Hi+There!+👋;+I'm+Sakar+Chaulagain!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=700&height=80&duration=4000&lines=Hi+There!+👋;+I'm+Sakar+Chaulagain!;" />
 </h1>
 
 <h3 align="center">
@@ -10,27 +10,13 @@
 </h3>
 
 <div align="center">
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=sacarsacar&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
-    &nbsp;&nbsp;
-    <a href="https://twitter.com/sacarsakar" target="_blank">
-      <img src="https://img.shields.io/twitter/follow/sacarsakar?logo=twitter&style=flat" alt="Twitter Follow">
-    </a>
-    &nbsp;
-    <a href="https://linkedin.com/in/chaulagain-sakar" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat" alt="LinkedIn">
-    </a>
-    &nbsp;
-    <a href="https://instagram.com/sakarchaulagain" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-Follow-pink?logo=instagram&style=flat" alt="Instagram">
-    </a>
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=sacarsacar&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on **Multi Cloud**  
+- 🔭 Working on **Multi Cloud**  
 - 🌱 Flutter Developer (Android & Web Apps)  
 - 👨‍💻 Projects: [https://sakarc.com.np/](https://sakarc.com.np/)  
 - 💬 Ask me about **Flutter, Dart, Figma, MongoDB, Postgres, NodeJS**  
@@ -40,7 +26,10 @@
 
 ### 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,js,html,css,git,github,vscode,tailwind,bootstrap,mongodb,postgres,java,php,python,c,linux,photoshop,matlab" style="margin:5px;transform: scale(1); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,js,html,css,git,github,vscode,tailwind,bootstrap,mongodb,postgres,java,php,python,c,linux,photoshop,matlab" 
+       style="margin:5px; transform: scale(1); transition: all 0.3s ease;" 
+       onmouseover="this.style.transform='scale(1.3)';" 
+       onmouseout="this.style.transform='scale(1)';" />
 </div>
 
 ---
@@ -72,9 +61,61 @@
 
 ---
 
-### 📂 Projects
+### 📂 Top Projects (Flip Cards)
 <div align="center">
-  <img src="https://github-readme-projects.vercel.app/api?username=sacarsacar&limit=6&theme=radical&layout=compact" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/sacarsacar/project-images/main/project1.gif" width="180" style="border-radius:15px; transition: transform 0.5s;" onmouseover="this.style.transform='rotateY(180deg)';" onmouseout="this.style.transform='rotateY(0deg)';" />
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/sacarsacar/project-images/main/project2.gif" width="180" style="border-radius:15px; transition: transform 0.5s;" onmouseover="this.style.transform='rotateY(180deg)';" onmouseout="this.style.transform='rotateY(0deg)';" />
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/sacarsacar/project-images/main/project3.gif" width="180" style="border-radius:15px; transition: transform 0.5s;" onmouseover="this.style.transform='rotateY(180deg)';" onmouseout="this.style.transform='rotateY(0deg)';" />
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/sacarsacar/project-images/main/project4.gif" width="180" style="border-radius:15px; transition: transform 0.5s;" onmouseover="this.style.transform='rotateY(180deg)';" onmouseout="this.style.transform='rotateY(0deg)';" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🌐 Connect with Me
+<div align="center">
+  <a href="https://twitter.com/@sacarsakar" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="40" height="40" style="filter: drop-shadow(0 0 5px #1DA1F2); transition: all 0.3s ease; animation: bounce 2s infinite;" />
+  </a>
+  <a href="https://linkedin.com/in/chaulagain-sakar" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40" height="40" style="filter: drop-shadow(0 0 5px #0077B5); transition: all 0.3s ease; animation: glow 2s infinite alternate;" />
+  </a>
+  <a href="https://fb.com/sakarchaulagain" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="40" height="40" style="filter: drop-shadow(0 0 5px #1877F2); transition: all 0.3s ease; animation: bounce 2.5s infinite;" />
+  </a>
+  <a href="https://instagram.com/sakarchaulagain" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="40" height="40" style="filter: drop-shadow(0 0 5px #E1306C); transition: all 0.3s ease; animation: glow 2.5s infinite alternate;" />
+  </a>
+</div>
+
+<style>
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+@keyframes glow {
+  0% { filter: drop-shadow(0 0 5px #fff); }
+  50% { filter: drop-shadow(0 0 15px #fff); }
+  100% { filter: drop-shadow(0 0 5px #fff); }
+}
+</style>
+
+---
+
+### 🎲 Daily Quote / Fun Fact
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote" />
 </div>
 
 ---
@@ -86,7 +127,7 @@
 
 ---
 
-### ✨ Fun Footer
+### ✨ Footer
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </div>
