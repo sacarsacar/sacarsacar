@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Hi+There!+👋;+I'm+Sakar+Chaulagain!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=650&height=80&duration=4000&lines=Hi+There!+👋;+I'm+Sakar+Chaulagain!;" />
 </h1>
 
 <h3 align="center">
-  <span style="color: #FFD700">A Passionate</span> 
-  <span style="color: #FF4500">Developer</span> 
-  <span style="color: #1E90FF">From Nepal</span> 
+  <span style="color:#FFD700">A Passionate</span> 
+  <span style="color:#FF4500">Developer</span> 
+  <span style="color:#1E90FF">From Nepal</span> 
   <img width="50" height="50" src="https://github.com/sacarsacar/sacarsacar/assets/104842066/fefa7187-068e-4b1f-adc7-dc54977f9874">
 </h3>
 
@@ -31,16 +31,25 @@
 
 ### 🚀 About Me
 - 🔭 Currently working on **Multi Cloud**  
-- 🌱 Working as a **Flutter Developer (Android App Development)**  
-- 👨‍💻 All my projects: [https://sakarc.com.np/](https://sakarc.com.np/)  
-- 💬 Ask me about **Flutter, Dart, Figma, MongoDB, Postgres, etc.**  
+- 🌱 Flutter Developer (Android & Web Apps)  
+- 👨‍💻 Projects: [https://sakarc.com.np/](https://sakarc.com.np/)  
+- 💬 Ask me about **Flutter, Dart, Figma, MongoDB, Postgres, NodeJS**  
 - 📫 Reach me at: **info@sakarc.com.np**  
+
+---
+
+### 🛠️ Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,js,html,css,git,github,vscode,tailwind,bootstrap,mongodb,postgres,java,php,python,c,linux,photoshop,matlab" style="margin:5px;transform: scale(1); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';" />
+</div>
 
 ---
 
 ### 💻 Currently Coding In
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sacarsacar&layout=compact&theme=radical" />
+  <marquee behavior="scroll" direction="left" scrollamount="7">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sacarsacar&layout=compact&theme=radical" alt="WakaTime Stats" />
+  </marquee>
 </div>
 
 ---
@@ -54,7 +63,7 @@
 
 ---
 
-### 🔥 GitHub Streak & Activity
+### 🔥 Streaks & Activity
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sacarsacar&theme=radical" />
   <br/>
@@ -63,28 +72,21 @@
 
 ---
 
-### 🛠️ Languages & Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,python,js,html,css,git,github,vscode,tailwind,bootstrap,mongodb,postgres,c,java,php,linux,matlab,photoshop" />
-</div>
-
----
-
-### ⚡ GitHub Top Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sacarsacar&show_icons=true&locale=en&layout=compact&theme=radical" />
-</div>
-
----
-
-### 📂 My Projects
+### 📂 Projects
 <div align="center">
   <img src="https://github-readme-projects.vercel.app/api?username=sacarsacar&limit=6&theme=radical&layout=compact" />
 </div>
 
 ---
 
-### ✨ Fun Section
+### 👀 Visitors Count
+<div align="center">
+  <img src="https://profile-counter.glitch.me/sacarsacar/count.svg" />
+</div>
+
+---
+
+### ✨ Fun Footer
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
