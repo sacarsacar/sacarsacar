@@ -1,17 +1,18 @@
 # Hi there, I'm Sakar Chaulagain! 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Full%20Stack%20Developer&fontSize=50&fontAlignY=35&desc=Flutter%20•%20Multi-Cloud%20•%20Web%20Development&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Flutter%20Developer&fontSize=50&fontAlignY=35&desc=Mobile%20•%20Full%20Stack%20•%20API%20Development&descAlignY=55" width="100%"/>
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** specializing in **Flutter** and **Multi-Cloud** solutions. I love building beautiful, functional applications that solve real-world problems.
+I'm a passionate **Flutter Developer** who loves crafting beautiful, performant mobile applications. With expertise in full-stack development, I build end-to-end solutions from mobile frontend to backend APIs.
 
-- 🔭 Currently working on **Multi-Cloud Infrastructure & Solutions**
-- 🌱 Specialized in **Flutter Development** (Android & Web Apps)
-- 💼 Building innovative projects at [sakarc.com.np](https://sakarc.com.np/)
-- 💡 Open to collaborating on exciting Flutter and web projects
+- 📱 **Primary Focus**: Flutter Development (Android & iOS Apps)
+- 🔧 **Backend Skills**: REST APIs, Django, FastAPI, Node.js, Next.js, React
+- 💼 Currently working on **Multi-Cloud** as a company project
+- 🌟 Building innovative solutions at [sakarc.com.np](https://sakarc.com.np/)
+- 💡 Open to collaborating on Flutter and full-stack projects
 - 📫 Reach me: **info@sakarc.com.np**
 
 ## 🌐 Connect With Me
@@ -45,23 +46,64 @@ I'm a passionate **Full Stack Developer** specializing in **Flutter** and **Mult
 ## 💬 Ask Me About
 
 ```javascript
-const expertise = {
-  mobile: ['Flutter', 'Dart', 'Android Development'],
-  frontend: ['React', 'HTML/CSS', 'Tailwind', 'Bootstrap'],
-  backend: ['NodeJS', 'MongoDB', 'PostgreSQL'],
-  design: ['Figma', 'Photoshop', 'UI/UX Design'],
-  cloud: ['Multi-Cloud Architecture', 'DevOps']
+const skills = {
+  primary: {
+    mobile: ['Flutter', 'Dart', 'Cross-platform Development'],
+    expertise: ['State Management', 'UI/UX Implementation', 'App Architecture']
+  },
+  backend: {
+    frameworks: ['Django', 'FastAPI', 'Node.js', 'Express'],
+    apis: ['REST API Design', 'Authentication', 'Database Integration']
+  },
+  frontend: {
+    web: ['React', 'Next.js', 'HTML/CSS', 'Tailwind', 'Bootstrap']
+  },
+  databases: ['MongoDB', 'PostgreSQL', 'Firebase'],
+  design: ['Figma', 'Photoshop', 'UI/UX Design']
 };
 ```
 
 ## 🎨 Featured Projects
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sacarsacar/project-images/main/project1.gif" width="200" style="margin: 10px"/>
-  <img src="https://raw.githubusercontent.com/sacarsacar/project-images/main/project2.gif" width="200" style="margin: 10px"/>
-  <img src="https://raw.githubusercontent.com/sacarsacar/project-images/main/project3.gif" width="200" style="margin: 10px"/>
-  <img src="https://raw.githubusercontent.com/sacarsacar/project-images/main/project4.gif" width="200" style="margin: 10px"/>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/sacarsacar/project-images/main/project1.gif" width="100%"/>
+      <br/>
+      <b>🎓 LMS (Learning Management System)</b>
+      <br/>
+      <i>Comprehensive education platform</i>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/sacarsacar/project-images/main/project2.gif" width="100%"/>
+      <br/>
+      <b>🍜 Chawsa Jhol Momo App</b>
+      <br/>
+      <i>Food ordering & delivery solution</i>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/sacarsacar/project-images/main/project3.gif" width="100%"/>
+      <br/>
+      <b>📋 N9 Attendance App</b>
+      <br/>
+      <i>Smart attendance tracking system</i>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/sacarsacar/project-images/main/project4.gif" width="100%"/>
+      <br/>
+      <b>🥛 Dairy Management System</b>
+      <br/>
+      <i>Complete dairy operations management</i>
+    </td>
+  </tr>
+</table>
+
+### 🔥 Currently Working On
+
+- **Fire Alert System** - Personal project for emergency notifications and alerts
+- **Multi-Cloud** - Company project utilizing cloud infrastructure
 
 <p align="center">
   <i>Explore more projects at <a href="https://sakarc.com.np/">sakarc.com.np</a></i>
