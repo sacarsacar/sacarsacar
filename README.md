@@ -9,7 +9,7 @@
 I'm a passionate **Flutter Developer** who loves crafting beautiful, performant mobile applications. With expertise in full-stack development, I build end-to-end solutions from mobile frontend to backend APIs.
 
 - 📱 **Primary Focus**: Flutter Development (Android & iOS Apps)
-- 🔧 **Backend Skills**: REST APIs, Django, FastAPI, Node.js, Next.js, React
+- 🔧 **Backend Skills**: REST APIs, Django, FastAPI, Node.js, Next.js,
 - 💼 Currently working on **Multi-Cloud** as a company project
 - 🌟 Building innovative solutions at [sakarc.com.np](https://sakarc.com.np/)
 - 💡 Open to collaborating on Flutter and full-stack projects
