@@ -38,30 +38,27 @@
 
 ---
 
-### 📫 Connect with Me
-
+### 💻 Currently Coding In
 <div align="center">
-  <a href="https://twitter.com/@sacarsakar" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="35" height="35"/>
-  </a>
-  <a href="https://linkedin.com/in/chaulagain-sakar" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="35" height="35"/>
-  </a>
-  <a href="https://fb.com/sakarchaulagain" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" alt="Facebook" width="35" height="35"/>
-  </a>
-  <a href="https://instagram.com/sakarchaulagain" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="35" height="35"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sacarsacar&layout=compact&theme=radical" />
 </div>
 
 ---
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sacarsacar&theme=dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sacarsacar&theme=dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sacarsacar&theme=dark&utcOffset=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sacarsacar&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sacarsacar&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sacarsacar&theme=github_dark&utcOffset=8" />
+</div>
+
+---
+
+### 🔥 GitHub Streak & Activity
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sacarsacar&theme=radical" />
+  <br/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sacarsacar&theme=react-dark&hide_border=true" />
 </div>
 
 ---
@@ -76,6 +73,13 @@
 ### ⚡ GitHub Top Languages
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sacarsacar&show_icons=true&locale=en&layout=compact&theme=radical" />
+</div>
+
+---
+
+### 📂 My Projects
+<div align="center">
+  <img src="https://github-readme-projects.vercel.app/api?username=sacarsacar&limit=6&theme=radical&layout=compact" />
 </div>
 
 ---
