@@ -61,41 +61,31 @@
 
 ---
 
-### 📂 Top Projects (Flip Cards)
+### 📂 Top Projects (Scrolling Carousel)
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://raw.githubusercontent.com/sacarsacar/project-images/main/project1.gif" width="180" style="border-radius:15px; transition: transform 0.5s;" onmouseover="this.style.transform='rotateY(180deg)';" onmouseout="this.style.transform='rotateY(0deg)';" />
-      </td>
-      <td>
-        <img src="https://raw.githubusercontent.com/sacarsacar/project-images/main/project2.gif" width="180" style="border-radius:15px; transition: transform 0.5s;" onmouseover="this.style.transform='rotateY(180deg)';" onmouseout="this.style.transform='rotateY(0deg)';" />
-      </td>
-      <td>
-        <img src="https://raw.githubusercontent.com/sacarsacar/project-images/main/project3.gif" width="180" style="border-radius:15px; transition: transform 0.5s;" onmouseover="this.style.transform='rotateY(180deg)';" onmouseout="this.style.transform='rotateY(0deg)';" />
-      </td>
-      <td>
-        <img src="https://raw.githubusercontent.com/sacarsacar/project-images/main/project4.gif" width="180" style="border-radius:15px; transition: transform 0.5s;" onmouseover="this.style.transform='rotateY(180deg)';" onmouseout="this.style.transform='rotateY(0deg)';" />
-      </td>
-    </tr>
-  </table>
+  <marquee behavior="scroll" direction="left" scrollamount="8">
+    <img src="https://raw.githubusercontent.com/sacarsacar/project-images/main/project1.gif" width="200" style="margin:0 15px; border-radius:15px;"/>
+    <img src="https://raw.githubusercontent.com/sacarsacar/project-images/main/project2.gif" width="200" style="margin:0 15px; border-radius:15px;"/>
+    <img src="https://raw.githubusercontent.com/sacarsacar/project-images/main/project3.gif" width="200" style="margin:0 15px; border-radius:15px;"/>
+    <img src="https://raw.githubusercontent.com/sacarsacar/project-images/main/project4.gif" width="200" style="margin:0 15px; border-radius:15px;"/>
+  </marquee>
 </div>
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Connect with Me (Glowing & Bouncing Icons)
 <div align="center">
   <a href="https://twitter.com/@sacarsakar" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="40" height="40" style="filter: drop-shadow(0 0 5px #1DA1F2); transition: all 0.3s ease; animation: bounce 2s infinite;" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="45" height="45" style="filter: drop-shadow(0 0 10px #1DA1F2); transition: all 0.3s ease; animation: bounce 2s infinite;" />
   </a>
   <a href="https://linkedin.com/in/chaulagain-sakar" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40" height="40" style="filter: drop-shadow(0 0 5px #0077B5); transition: all 0.3s ease; animation: glow 2s infinite alternate;" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="45" height="45" style="filter: drop-shadow(0 0 10px #0077B5); transition: all 0.3s ease; animation: glow 2s infinite alternate;" />
   </a>
   <a href="https://fb.com/sakarchaulagain" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="40" height="40" style="filter: drop-shadow(0 0 5px #1877F2); transition: all 0.3s ease; animation: bounce 2.5s infinite;" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="45" height="45" style="filter: drop-shadow(0 0 10px #1877F2); transition: all 0.3s ease; animation: bounce 2.5s infinite;" />
   </a>
   <a href="https://instagram.com/sakarchaulagain" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="40" height="40" style="filter: drop-shadow(0 0 5px #E1306C); transition: all 0.3s ease; animation: glow 2.5s infinite alternate;" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="45" height="45" style="filter: drop-shadow(0 0 10px #E1306C); transition: all 0.3s ease; animation: glow 2.5s infinite alternate;" />
   </a>
 </div>
 
@@ -129,5 +119,13 @@
 
 ### ✨ Footer
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer"/>
 </div>
+
+---
+
+### 🌗 Theme Switcher Concept
+You can add **light/dark theme badges** like:
+
+```markdown
+![Theme](https://img.shields.io/badge/Theme-Light%20%7C%20Dark-blue?style=for-the-badge&logo=github)
