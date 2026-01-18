@@ -40,7 +40,7 @@ I'm a passionate **Flutter Developer** who loves crafting beautiful, performant 
 
 ### Tools & Others
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,java,c,matlab,photoshop" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,java,c,photoshop" />
 </p>
 
 ## 💬 Ask Me About
@@ -103,6 +103,9 @@ const skills = {
 ### 🔥 Currently Working On
 
 - **Fire Alert System** - Personal project for emergency notifications and alerts
+- **Bhansa Ghar** - A food Ordering App.
+
+###  💁🏻 On Hold
 - **Multi-Cloud** - Company project utilizing cloud infrastructure
 
 <p align="center">
