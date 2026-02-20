@@ -10,7 +10,7 @@ I'm a passionate **Flutter Developer** who loves crafting beautiful, performant 
 
 - 📱 **Primary Focus**: Flutter Development (Android & iOS Apps)
 - 🔧 **Backend Skills**: REST APIs, Django, FastAPI, Node.js, Next.js,
-- 💼 Currently working on **Multi-Cloud** as a company project
+- 💼 Currently working on **Fire Alert System**.
 - 🌟 Building innovative solutions at [sakarc.com.np](https://sakarc.com.np/)
 - 💡 Open to collaborating on Flutter and full-stack projects
 - 📫 Reach me: **info@sakarc.com.np**
@@ -105,8 +105,6 @@ const skills = {
 - **Fire Alert System** - Personal project for emergency notifications and alerts
 - **Bhansa Ghar** - A food Ordering App.
 
-###  💁🏻 On Hold
-- **Multi-Cloud** - Company project utilizing cloud infrastructure
 
 <p align="center">
   <i>Explore more projects at <a href="https://sakarc.com.np/">sakarc.com.np</a></i>
