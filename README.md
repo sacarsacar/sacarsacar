@@ -10,7 +10,7 @@ I'm a passionate **Flutter Developer** who loves crafting beautiful, performant 
 
 - 📱 **Primary Focus**: Flutter Development (Android & iOS Apps)
 - 🔧 **Backend Skills**: REST APIs, Django, FastAPI.
-- 💼 Currently working on **Fire Alert System**.
+- 💼 Currently working on **Drop**.
 - 🌟 Building innovative solutions at [sakarc.com.np](https://sakarc.com.np/)
 - 💡 Open to collaborating on Flutter and full-stack projects
 - 📫 Reach me: **info@sakarc.com.np**
