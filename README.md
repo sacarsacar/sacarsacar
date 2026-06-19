@@ -70,9 +70,9 @@ const skills = {
     <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/sacarsacar/project-images/main/project1.gif" width="100%"/>
       <br/>
-      <b>🎓 LMS (Learning Management System)</b>
+      <b>🎓 Drop>
       <br/>
-      <i>Comprehensive education platform</i>
+      <i>Socail Media Platform</i>
     </td>
     <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/sacarsacar/project-images/main/project2.gif" width="100%"/>
@@ -102,8 +102,7 @@ const skills = {
 
 ### 🔥 Currently Working On
 
-- **Fire Alert System** - Personal project for emergency notifications and alerts
-- **Bhansa Ghar** - A food Ordering App.
+- **Drop** - Social Media Which is Available in playstore and App Store Both.
 
 
 <p align="center">
