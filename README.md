@@ -70,7 +70,7 @@ const skills = {
     <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/sacarsacar/project-images/main/project1.gif" width="100%"/>
       <br/>
-      <b>🎓 Drop>
+      <b>🎓 Drop
       <br/>
       <i>Socail Media Platform</i>
     </td>
@@ -103,6 +103,8 @@ const skills = {
 ### 🔥 Currently Working On
 
 - **Drop** - Social Media Which is Available in playstore and App Store Both.
+  - Playstore Link: https://play.google.com/store/apps/details?id=com.gcc.drop&pli=1
+  - App Store Link: https://apps.apple.com/np/app/drop-hub-explore-and-droplet/id6755708377 
 
 
 <p align="center">
