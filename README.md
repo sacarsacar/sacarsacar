@@ -1,115 +1,84 @@
 # Hi there, I'm Sakar Chaulagain! 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Flutter%20Developer&fontSize=50&fontAlignY=35&desc=Mobile%20•%20Full%20Stack%20•%20API%20Development&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Flutter%20Developer&fontSize=50&fontAlignY=35&desc=Mobile%20•%20Release%20Engineering%20•%20Full%20Stack&descAlignY=55" width="100%"/>
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate **Flutter Developer** who loves crafting beautiful, performant mobile applications. With expertise in full-stack development, I build end-to-end solutions from mobile frontend to backend APIs.
+I'm a passionate **Flutter Developer** and the sole mobile engineer at **Drop**, managing the app end-to-end on iOS and Android. I specialize in offline-first architecture, custom native integrations (Kotlin/Swift), and robust release engineering (CI/CD pipelines, fastlane, Shorebird).
 
-- 📱 **Primary Focus**: Flutter Development (Android & iOS Apps)
-- 🔧 **Backend Skills**: REST APIs, Django, FastAPI.
-- 💼 Currently working on **Drop**.
-- 🌟 Building innovative solutions at [sakarc.com.np](https://sakarc.com.np/)
-- 💡 Open to collaborating on Flutter and full-stack projects
-- 📫 Reach me: **info@sakarc.com.np**
+- 📱 **Primary Focus**: Flutter & Dart (Cross-Platform Mobile Apps)
+- ⚙️ **Core Expertise**: CI/CD pipelines, custom camera stacks, Method Channels, and offline-first design
+- 💼 Currently working as the **Sole Mobile Engineer at Drop**.
+- 🌟 Building and publishing open-source packages & apps at [sakarc.com.np](https://sakarc.com.np/)
+- 💡 Open to collaborating on advanced Flutter and mobile system architecture
+- 📫 Reach me: **sakarchaulagain1@gmail.com**
+
+---
 
 ## 🌐 Connect With Me
 
 <div align="center">
   
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sacarsakar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chaulagain-sakar)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/sakarchaulagain)
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sakarchaulagain)
+[![Pub.dev](https://img.shields.io/badge/Pub.dev-0175C2?style=for-the-badge&logo=flutter&logoColor=white)](https://pub.dev)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sakarc.com.np/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakarchaulagain1@gmail.com)
 
 </div>
 
+---
+
 ## 💻 Tech Stack
 
-### Mobile & Frontend
+### Mobile & Native
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,html,css,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift" />
 </p>
 
-### Backend & Database
+### Backend & Real-time
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,js,mongodb,postgres,python" />
+  <img src="https://skillicons.dev/icons?i=firebase,nodejs,django,fastapi,postgres,redis,mongodb" />
 </p>
 
-### Tools & Others
+### Release, Tools & Web
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=git,gitlab,github,vscode,linux,nextjs,react,tailwind,figma" />
 </p>
 
-## 💬 Ask Me About
+---
 
-```javascript
-const skills = {
-  primary: {
-    mobile: ['Flutter', 'Dart', 'Cross-platform Development'],
-    expertise: ['State Management', 'UI/UX Implementation', 'App Architecture']
-  },
-  backend: {
-    frameworks: ['Django', 'FastAPI', 'Node.js', 'Express'],
-    apis: ['REST API Design', 'Authentication', 'Database Integration']
-  },
-  frontend: {
-    web: ['React', 'Next.js', 'HTML/CSS', 'Tailwind', 'Bootstrap']
-  },
-  databases: ['MongoDB', 'PostgreSQL', 'Firebase'],
-  design: ['Figma', 'Photoshop', 'UI/UX Design']
-};
-```
+## 📦 Open-Source Packages (pub.dev)
 
-## 🎨 Featured Projects
+| Package | Description |
+| :--- | :--- |
+| **[flutter_easy_messages](https://pub.dev/packages/flutter_easy_messages)** | Toast notifications and responsive snackbars with 9 positions, action buttons, queues, and haptic feedback. |
+| **[mirror_skeleton](https://pub.dev/packages/mirror_skeleton)** | Render-tree aware shimmer skeletons that generate pixel-matched bones with zero layout shift. |
+| **[shake_context](https://pub.dev/packages/shake_context)** | Shake-to-report bug diagnostic panel for QA and user feedback. |
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/sacarsacar/project-images/main/project1.gif" width="100%"/>
-      <br/>
-      <b>🎓 Drop
-      <br/>
-      <i>Socail Media Platform</i>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/sacarsacar/project-images/main/project2.gif" width="100%"/>
-      <br/>
-      <b>🍜 Chawsa Jhol Momo App</b>
-      <br/>
-      <i>Food ordering & delivery solution</i>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/sacarsacar/project-images/main/project3.gif" width="100%"/>
-      <br/>
-      <b>📋 N9 Attendance App</b>
-      <br/>
-      <i>Smart attendance tracking system</i>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/sacarsacar/project-images/main/project4.gif" width="100%"/>
-      <br/>
-      <b>🥛 Dairy Management System</b>
-      <br/>
-      <i>Complete dairy operations management</i>
-    </td>
-  </tr>
-</table>
+---
 
-### 🔥 Currently Working On
+## 🎨 Featured Production Apps & Projects
 
-- **Drop** - Social Media Which is Available in playstore and App Store Both.
-  - Playstore Link: https://play.google.com/store/apps/details?id=com.gcc.drop&pli=1
-  - App Store Link: https://apps.apple.com/np/app/drop-hub-explore-and-droplet/id6755708377 
+### 📱 Published Mobile Apps (Google Play & App Store)
+* **Drop** — Real-time social platform (~337k LOC) live on both stores. Built self-hosted GitLab CI/CD pipelines with fastlane, custom camera stacks (120 fps slow-mo, time-lapse), and native Method Channels (StoreKit 2, WidgetKit).
+  * [Play Store](https://play.google.com/store/apps/details?id=com.gcc.drop&pli=1) | [App Store](https://apps.apple.com/np/app/drop-hub-explore-and-droplet/id6755708377)
+* **[Global Equalizer](https://play.google.com/store/apps/details?id=com.himalayancodeworks.globalequilizer)** — System-wide audio processor for Android with graphic EQ, bass boost, and 3D widening using native Kotlin DSP (`android.media.audiofx`).
+* **[Tools Hub](https://play.google.com/store/apps/details?id=com.himalayancodeworks.toolshub)** — 167 offline tools across 10 categories accessible via home widgets, Quick Settings tiles, and Control Center.
+* **[Shift & Roster Planner](https://play.google.com/store/apps/details?id=com.himalayancodeworks.shift_roster_planner)** — Rosters and pay estimates with PDF timesheets, calendar exports, and home widgets.
+* **[GridVerse](https://play.google.com/store/apps/details?id=com.himalayancodeworks.gridverse)** — 15 offline grid puzzle, arcade, and minimax/alpha-beta AI strategy games built in Flutter.
+* **[LocalPlay](https://play.google.com/store/apps/details?id=com.himalayancodeworks.localplay)** — Feature-rich offline music player with multiple visual themes, gapless playback, crossfade, and shake-to-skip.
+* **[PhysicsVerse: Alien Defense](https://play.google.com/store/apps/details?id=com.himalayancodeworks.physicsverse)** — 2D physics puzzle game with 1,000 levels powered by Flame and Forge2D (Box2D v3).
+* **[MindVerse](https://play.google.com/store/apps/details?id=com.himalayancodeworks.mindverse)** — Word and logic puzzle app with 7 games, journey maps, and custom themes.
+* **[QuickDo](https://play.google.com/store/apps/details?id=com.himalayancodeworks.quickdo)** — Offline task list and Kanban board with reboot-safe reminders.
 
+### 🌐 Web Apps & Tools
+* **[workList](https://workslists.netlify.app)** — Keyboard-first, browser-local Kanban board for developers switching context across web, mobile, and backend work.
+* **[DevSim](https://devsimulator.netlify.app)** — Free, open-source side-by-side responsive device simulator rendering `localhost` or live URLs across multiple viewports simultaneously.
+* **[Skill Verify](https://skill-verifier.sakarchaulagain1.workers.dev)** — Verification utility web service hosted on Cloudflare Workers.
 
-<p align="center">
-  <i>Explore more projects at <a href="https://sakarc.com.np/">sakarc.com.np</a></i>
-</p>
+---
 
 ## 📊 GitHub Statistics
 
