@@ -25,6 +25,7 @@ I'm a passionate **Flutter Developer** and the sole mobile engineer at **Drop**,
 [![Pub.dev](https://img.shields.io/badge/Pub.dev-0175C2?style=for-the-badge&logo=flutter&logoColor=white)](https://pub.dev)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sakarc.com.np/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakarchaulagain1@gmail.com)
+[![Gitlab](https://img.shields.io/badge/Gitlab-D14866?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/sakarsacars)
 
 </div>
 
