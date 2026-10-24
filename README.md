@@ -35,12 +35,12 @@ I'm a passionate **Flutter Developer** who loves crafting beautiful, performant 
 
 ### Backend & Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,js,mongodb,postgres,php,python" />
+  <img src="https://skillicons.dev/icons?i=nodejs,js,mongodb,postgres,python" />
 </p>
 
 ### Tools & Others
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,java,c,photoshop" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ## 💬 Ask Me About
